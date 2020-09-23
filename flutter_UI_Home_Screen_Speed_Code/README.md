@@ -8,7 +8,7 @@ A new Flutter Speed Code UI Project on my Youtube Channel .
 
 This project is a simple Flutter Home Screen App for a many transaction app 
 
-- [The full tutrial](https://flutter.dev/docs/get-started/codelab)
+- [The full tutrial](https://youtu.be/Ga9cbx6tKjA)
 - [My youtube Channel](https://www.youtube.com/channel/UCnUh8WaDvVs1b0CbOv7UaWQ)
 
 ![ScreenShot](Screen_Shot.png)
